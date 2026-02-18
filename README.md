@@ -20,4 +20,4 @@ Temporal patterns were compared against known real-world events to evaluate pote
 - Longitudinal analysis revealed recurring engagement cycles over time.
 
 #### Documentation
-See `Social_Media_Activism_Time_Series_Report.pdf` for full methodology, data modeling approach, and analytical conclusions.
+See `From Hashtags to Action-Measuring the Offline Impact of Twitter Activism.pdf` for full methodology, data modeling approach, and analytical conclusions.
